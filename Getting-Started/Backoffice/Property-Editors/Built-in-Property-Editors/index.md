@@ -137,6 +137,11 @@ Made obsolete with the release of Umbraco v7.6 the media picker displays the cur
 ## Member Picker
 `Alias: Umbraco.MemberPicker2`
 
+## [Multi Url Picker](Multi-Url-Picker.md)
+`Alias: Umbraco.MultiUrlPicker`
+
+New to v7.14. The multi url picker data type allows content editors to choose multiple links, either internal, external or media.
+
 ## [Multinode Treepicker](Multinode-Treepicker2.md)
 `Alias: Umbraco.MultiNodeTreePicker2`
 
@@ -167,10 +172,10 @@ A configurable number control allowing only numbers.
 
 Pretty much like the name indicates this property editor enables editors to choose from list of radio buttons.
 
-## [Related Links](Related-Links2.md)
+## [(Obsolete) Related Links](Related-Links2.md)
 `Alias: Umbraco.RelatedLinks2`
 
-Related Links allows an editor to easily add an array of links. These can either be internal Umbraco pages or external URLs.
+Made obsolete with the release of Umbraco v7.14. Related Links allows an editor to easily add an array of links. These can either be internal Umbraco pages or external URLs.
 
 ## [(Obsolete) Related Links](Related-Links.md)
 `Alias: Umbraco.RelatedLinks`
